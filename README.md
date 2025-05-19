@@ -15,6 +15,7 @@ This project uses machine learning to classify movie reviews from the IMDB datas
 1. Clone the repository and install required packages:
 
 ```bash
+git clone https://github.com/jdesai05/IMDB-Sentimental-Analysis.git
 pip install pandas scikit-learn nltk
 ````
 
