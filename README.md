@@ -1,8 +1,3 @@
-Thanks, Jainil! Based on your file structure, here’s a **brief and clean `README.md`** written specifically for your IMDB sentiment analysis project setup:
-
----
-
-````markdown
 # 🎬 IMDB Sentiment Analysis
 
 This project uses machine learning to classify movie reviews from the IMDB dataset as positive or negative.
